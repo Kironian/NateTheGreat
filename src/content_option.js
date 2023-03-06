@@ -1,8 +1,8 @@
 
-const logoimage = "Nate The Great";
+const logoimage = "NATE THE GREAT";
 const logotext = "NATE THE GREAT";
 const meta = {
-    title: "Nate the Great",
+    title: "NATETHEGREAT",
     description: "I’m Nate the Great, Master of Magic",
 };
 
@@ -14,7 +14,7 @@ const introdata = {
         third: "Step into a World of Enchantment and Wonder with Our Master Magician",
     },
     description: "Unleash Your Imagination with Nate the Great's Mesmerizing Magic. Reach out to schedule a performance today!",
-    your_img_url: "https://iili.io/HWG6dRj.png",
+    your_img_url: "https://iili.io/HWWsFnf.png",
 };
 
 const dataabout = {
@@ -84,46 +84,67 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-     video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+     video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
      description: "Watch my latest magic show",
         link: "#",
     },
     {
        
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
         
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
         
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
        
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
     },
     {
         
-    img: "https://i.ytimg.com/vi/EAN-PwRfJcA/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=EAN-PwRfJcA",
+    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
         desctiption: "The wisdom of life consists in the elimination of non-essentials.",
         link: "#",
-    }
+    },
+    {
+        
+        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
+            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+            link: "#",
+        },
+        {
+           
+        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
+            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+            link: "#",
+        },
+        {
+            
+        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
+        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
+            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
+            link: "#",
+        }
 ];
 
 const contactConfig = {
