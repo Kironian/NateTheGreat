@@ -92,7 +92,7 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "natethegreat.booking@gmail.com",
+    YOUR_EMAIL: "natethegreatmagic.booking@gmail.com",
     YOUR_FONE: "(805) 722-7070",
     description: "Ready to be amazed? Contact Nate the Great to schedule a magical performance that will leave you and your guests spellbound. Whether you're planning a children's party, private event, or corporate function, Nate has the experience and expertise to make it an unforgettable experience. Get in touch today to book your date and experience the magic!",
     // creat an emailjs.com account 
