@@ -1,5 +1,5 @@
 
-const logoimage = "NATE THE GREAT";
+const logoimage = "https://raw.githubusercontent.com/Kironian/NateTheGreat/7b1cfcb414d8566fc6b290f2dc0d3bc703510aa9/src/assets/images/natelogo.svg";
 const logotext = "NATE THE GREAT";
 const meta = {
     title: "NATETHEGREAT",
@@ -84,78 +84,22 @@ const services = [{
 ];
 
 const dataportfolio = [{
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-     video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
+    img: "",
+     video: "https://youtube.com/shorts/tELYlhPgolo?feature=share",
      description: "Watch my latest magic show",
-        link: "#",
-    },
-    {
-       
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-       
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        
-    img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-    video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        
-        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-            link: "#",
-        },
-        {
-           
-        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-            link: "#",
-        },
-        {
-            
-        img: "https://i.ytimg.com/vi/MLpWrANjFbI/maxresdefault.jpg",
-        video: "https://www.youtube.com/watch?v=MLpWrANjFbI",
-            desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-            link: "#",
-        }
+        link: "https://youtube.com/shorts/tELYlhPgolo?feature=share",
+    }
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "nate@natethegreat.com",
+    YOUR_EMAIL: "natethegreat.booking@gmail.com",
     YOUR_FONE: "(805) 722-7070",
     description: "Ready to be amazed? Contact Nate the Great to schedule a magical performance that will leave you and your guests spellbound. Whether you're planning a children's party, private event, or corporate function, Nate has the experience and expertise to make it an unforgettable experience. Get in touch today to book your date and experience the magic!",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
-    YOUR_SERVICE_ID: "service_id",
-    YOUR_TEMPLATE_ID: "template_id",
-    YOUR_USER_ID: "user_id",
+    YOUR_SERVICE_ID: "service_4l1zd0t",
+    YOUR_TEMPLATE_ID: "template_q2azkx5",
+    YOUR_USER_ID: "fU5LMtdk1YFMgjjy1",
 };
 
 const socialprofils = {

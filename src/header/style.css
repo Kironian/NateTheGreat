@@ -82,7 +82,6 @@
     padding-left: 10px;
     padding-right: 10px;
     
-    background: var(--primary-color);
 }
 
 .menu__button {
@@ -94,10 +93,15 @@
     color: var(--text-color);
     box-shadow: unset;
 }
-
+.navbar-brand img {
+    width: 150px;
+    height: auto;
+  }
 .menu__button svg {
     width: 2em;
     height: 2em;
+    fill: var(--text-color-2);
+    color: var(--text-color-2);
 }
 
 .nav_ac {
